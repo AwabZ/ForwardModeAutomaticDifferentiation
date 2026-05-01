@@ -1,8 +1,8 @@
 # 📐 AutoDiff-Lang: Forward Mode Automatic Differentiation Interpreter
-A custom-built interpreted language designed to perform Forward Mode Automatic Differentiation (AD) using Dual Numbers. This project implements a complete pipeline—from a hand-written Lexer and Recursive Descent Parser to a specialized Interpreter that evaluates derivatives as a first-class operation.
+A custom-built interpreted language designed to perform Forward Mode Automatic Differentiation (AD) using Dual Numbers. This project implements a complete pipeline, from a hand-written Lexer and Recursive Descent Parser to a specialized Interpreter that evaluates derivatives as a first-class operation.
 
 # 🚀 Features
-⚡ Automatic Differentiation: Evaluate exact derivatives using the deriv keyword—no finite difference approximations needed.  
+⚡ Automatic Differentiation: Evaluate exact derivatives using the deriv keyword, no finite difference approximations needed.  
 
 🔢 Dual Number Arithmetic: Core engine implements Dual objects where every number carries its own derivative bit.  
 
